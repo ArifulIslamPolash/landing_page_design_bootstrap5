@@ -1,0 +1,15 @@
+==================================
+solution:: 01:
+==================================
+bootstrap.min.js / bootstrap.bundle.min.js
+single use at a time . both not use (min.js/bundle.min.js)
+each use every single in two file (dropdown work is done) 
+
+==================================
+solution:: 02:
+==================================
+npm install @popperjs/core
+
+<script src="./node_modules/@popperjs/core/dist/umd/popper.min.js"></script>
+
+
